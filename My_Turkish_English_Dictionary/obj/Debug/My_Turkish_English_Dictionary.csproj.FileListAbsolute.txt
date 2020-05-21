@@ -1,0 +1,19 @@
+C:\Users\LENOVO\source\repos\My_Turkish_English_Dictionary\My_Turkish_English_Dictionary\obj\Debug\My_Turkish_English_Dictionary.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\My_Turkish_English_Dictionary\My_Turkish_English_Dictionary\obj\Debug\My_Turkish_English_Dictionary.forms.FavouritesForm.resources
+C:\Users\LENOVO\source\repos\My_Turkish_English_Dictionary\My_Turkish_English_Dictionary\obj\Debug\My_Turkish_English_Dictionary.forms.feedback_form.resources
+C:\Users\LENOVO\source\repos\My_Turkish_English_Dictionary\My_Turkish_English_Dictionary\obj\Debug\My_Turkish_English_Dictionary.forms.history_form.resources
+C:\Users\LENOVO\source\repos\My_Turkish_English_Dictionary\My_Turkish_English_Dictionary\obj\Debug\My_Turkish_English_Dictionary.SingupForm.resources
+C:\Users\LENOVO\source\repos\My_Turkish_English_Dictionary\My_Turkish_English_Dictionary\obj\Debug\My_Turkish_English_Dictionary.FormLogin.resources
+C:\Users\LENOVO\source\repos\My_Turkish_English_Dictionary\My_Turkish_English_Dictionary\obj\Debug\My_Turkish_English_Dictionary.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\My_Turkish_English_Dictionary\My_Turkish_English_Dictionary\obj\Debug\My_Turkish_English_Dictionary.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\My_Turkish_English_Dictionary\My_Turkish_English_Dictionary\bin\Debug\HtmlAgilityPack.dll
+C:\Users\LENOVO\source\repos\My_Turkish_English_Dictionary\My_Turkish_English_Dictionary\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\LENOVO\source\repos\My_Turkish_English_Dictionary\My_Turkish_English_Dictionary\bin\Debug\HtmlAgilityPack.xml
+C:\Users\LENOVO\source\repos\My_Turkish_English_Dictionary\My_Turkish_English_Dictionary\obj\Debug\My_Turkish_English_Dictionary.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\My_Turkish_English_Dictionary\My_Turkish_English_Dictionary\obj\Debug\My_Turkish_English_Dictionary.forms.Form1.resources
+C:\Users\LENOVO\source\repos\My_Turkish_English_Dictionary\My_Turkish_English_Dictionary\obj\Debug\My_Turkish_English_Dictionary.forms.Detail_form.resources
+C:\Users\LENOVO\source\repos\My_Turkish_English_Dictionary\My_Turkish_English_Dictionary\bin\Debug\My Dictionary.exe.config
+C:\Users\LENOVO\source\repos\My_Turkish_English_Dictionary\My_Turkish_English_Dictionary\bin\Debug\My Dictionary.exe
+C:\Users\LENOVO\source\repos\My_Turkish_English_Dictionary\My_Turkish_English_Dictionary\bin\Debug\My Dictionary.pdb
+C:\Users\LENOVO\source\repos\My_Turkish_English_Dictionary\My_Turkish_English_Dictionary\obj\Debug\My Dictionary.exe
+C:\Users\LENOVO\source\repos\My_Turkish_English_Dictionary\My_Turkish_English_Dictionary\obj\Debug\My Dictionary.pdb
